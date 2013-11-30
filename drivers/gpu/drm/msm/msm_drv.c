@@ -17,6 +17,7 @@
 
 #include "msm_drv.h"
 #include "msm_gpu.h"
+#include "msm_kms.h"
 
 #include <mach/iommu.h>
 
